@@ -1,0 +1,4 @@
+[core]
+    remote = clivedvcremote
+['remote "clivedvcremote"']
+    url = s3://clived-dvc
